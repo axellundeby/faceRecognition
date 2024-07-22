@@ -3,13 +3,15 @@
 ## Project Overview
 This project uses Python and machine learning libraries such as `facenet_pytorch` to identify a specific person's presence in a group photo. By comparing facial embeddings generated from individual and group photos, the script determines if the person of interest is in the group photo.
 
-## Example 
+## 2 Examples
 
 ### Person of intrest
 <img src="ressurser/yamal.png" alt="Person of interest" width="250" height="250">
+<img src="ressurser/ross.webp" alt="Person of interest" width="250" height="250">
 
 ### Group Photo
-![Group photo](ressurser/spain.webp)
+![Group photo spain](ressurser/spain.webp)
+![Group photo friends](ressurser/friends.jpeg)
 
 ### Output image
 ![Outputimage](ressurser/outputImage.jpeg)
