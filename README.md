@@ -8,15 +8,13 @@ This project uses Python and machine learning libraries such as `facenet_pytorch
 ### Person of intrest
 <img src="ressurser/yamal.png" alt="Person of interest" width="250" height="250">
 
-
-
 ### Group Photo
 ![Group photo](ressurser/spain.webp)
 
 ### Output image
 ![Outputimage](outputImage.jpeg)
 
-## Libraries and Tools Used
+## Run finder.py with these libaries and tools
 - `facenet_pytorch`: For detecting faces and generating facial embeddings.
 - `torch`: PyTorch, for handling tensor operations.
 - `PIL`: To handle image loading and processing.
@@ -35,3 +33,4 @@ This project uses Python and machine learning libraries such as `facenet_pytorch
 3. **Compare Faces**: Calculate the distance between the person of interest's embedding and each face in the group photo.
 4. **Annotate Image**: Draw bounding boxes around detected faces, color-coded based on match status (green for match, red for no match).
 5. **Output**: Save and output the annotated image indicating whether the person of interest was detected in the photo
+
