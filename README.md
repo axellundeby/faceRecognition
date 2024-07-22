@@ -12,7 +12,7 @@ This project uses Python and machine learning libraries such as `facenet_pytorch
 ![Group photo](ressurser/spain.webp)
 
 ### Output image
-![Outputimage](outputImage.jpeg)
+![Outputimage](ressurser/outputImage.jpeg)
 
 ## Run finder.py with these libaries and tools
 - `facenet_pytorch`: For detecting faces and generating facial embeddings.
