@@ -10,12 +10,12 @@ This project uses Python and machine learning libraries such as `facenet_pytorch
 <img src="ressurser/ross.webp" alt="Person of interest" width="250" height="250">
 
 ### Group Photo
-![Group photo spain](ressurser/spain.webp)
-![Group photo friends](ressurser/friends.jpeg)
+<img src="ressurser/spain.webp" alt="Person of interest" width="450" height="350">
+<img src="ressurser/friends.jpeg" alt="Person of interest" width="450" height="350">
 
 ### Output image
-<img src="ressurser/outputImage.jpeg" alt="Person of interest" width="350" height="250">
-<img src="ressurser/rossFriends.jpeg" alt="Person of interest" width="350" height="250">
+<img src="ressurser/outputImage.jpeg" alt="Person of interest" width="450" height="350">
+<img src="ressurser/rossFriends.jpeg" alt="Person of interest" width="450" height="350">
 
 ## Run finder.py with these libaries and tools
 - `facenet_pytorch`: For detecting faces and generating facial embeddings.
